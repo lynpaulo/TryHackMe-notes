@@ -23,3 +23,4 @@ I am currently building my skills through hands-on labs and self-paced learning.
 
 ## Progress
 - Day 1: Created portfolio and started TryHackMe
+- completed Introduction to Cybersecurity on TryHackMe
