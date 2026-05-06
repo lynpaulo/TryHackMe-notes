@@ -1,4 +1,5 @@
 Day 1 - TryHackMe
+
 What is Cyber Security?
 Cyber security is the practice of protecting systems, networks, and data from digital attacks.
 
