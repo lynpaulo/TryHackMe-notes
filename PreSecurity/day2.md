@@ -1,7 +1,8 @@
 Day 2 – Networking & DNS Basics
+
 Networks
-A network is a group of connected devices that communicate with each other.  
-The Internet is a massive network made of many smaller networks.
+- A network is a group of connected devices that communicate with each other.  
+- The Internet is a massive network made of many smaller networks.
 
 Examples:
 - Computers, phones, servers
