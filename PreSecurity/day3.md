@@ -115,11 +115,11 @@ Learned:
 
 Example Request
 
-POST /login HTTP/1.1
-Host: tryhackme.com
-User-Agent: Firefox/87.0
-Content-Type: application/x-www-form-urlencoded
-username=thm&password=letmein
+- POST /login HTTP/1.1
+- Host: tryhackme.com
+- User-Agent: Firefox/87.0
+- Content-Type: application/x-www-form-urlencoded
+- username=thm&password=letmein
 
 Server Response
 -	Status: 200 OK
